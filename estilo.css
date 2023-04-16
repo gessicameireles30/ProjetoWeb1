@@ -77,32 +77,32 @@ main {
 }
 
 .card-1 {
-	background-image: url("/img/sombra.jpg");
+	background-image: url("img/sombra.jpg");
 	background-size: cover;
 }
 
 .card-2 {
-	background-image: url("/img/base.jpg");
+	background-image: url("img/base.jpg");
 	background-size: cover;
 }
 
 .card-3 {
-	background-image: url("/img/batom.jpg");
+	background-image: url("img/batom.jpg");
 	background-size: cover;
 }
 
 .card-4 {
-	background-image: url("/img/img.jpg");
+	background-image: url("img/img.jpg");
 	background-size: cover;
 }
 
 .card-5 {
-	background-image: url("/img/pincel.jpg.jpg");
+	background-image: url("img/pincel.jpg.jpg");
 	background-size: cover;
 }
 
 .card-6 {
-	background-image: url("/img/delineador.jpg");
+	background-image: url("img/delineador.jpg");
 	background-size: cover;
 }
 
